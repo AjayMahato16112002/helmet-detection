@@ -2,8 +2,8 @@ streamlit==1.32.2
 ultralytics==8.0.176
 opencv-python==4.8.1.78
 numpy==1.24.4
-torch==2.0.1+cpu
-torchvision==0.15.2+cpu
+torch
+torchvision
 pillow==9.5.0
--f https://download.pytorch.org/whl/torch_stable.html
+
 
